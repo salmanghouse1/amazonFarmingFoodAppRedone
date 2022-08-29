@@ -1,6 +1,3 @@
-# amazonFarmingFoodAppRedone
-
-
 # Amazon Farming Helper App
 
 ## User Story
