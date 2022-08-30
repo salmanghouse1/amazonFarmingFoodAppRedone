@@ -12,3 +12,9 @@
 ## Developers
 
 - Salman Ghouse - salmanghouse1@gmail.com
+
+## Notes
+
+-still in dev
+
+-use "python manage runserver" to run the local dev envirnoment
