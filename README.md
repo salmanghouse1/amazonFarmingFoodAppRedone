@@ -6,7 +6,8 @@
 
 ## Tech Used:
 
-- Python, DJango, Docker, Datasets FROM AWS Marketplace
+- Python, DJango, Docker, Datasets FROM AWS Marketplace,
+  https://aws.amazon.com/marketplace/pp/prodview-z6d6q7p7a65xe?sr=0-2&ref_=beagle&applicationId=AWSMPContessa#resources
 
 ## Developers
 
